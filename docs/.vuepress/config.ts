@@ -20,7 +20,7 @@ export default defineUserConfig({
     // hostname: 'https://your_site_url',
 
     /* 文档仓库配置，用于 editLink */
-    docsRepo: 'https://github.com/sh2-web/Sh2Newweb',
+    docsRepo: 'https://github.com/StickyHomeworks2/Sh2_docs',
     docsDir: 'docs',
     docsBranch: 'main',
 
